@@ -34,6 +34,7 @@ migrate_working_dir/
 /build/
 app/src/main/AndroidManifest.xml
 ios/Runner/AppDelegate.swift
+web/index.html
 
 # Symbolication related
 app.*.symbols
